@@ -1,0 +1,9 @@
+As An exercise in the use of MRAC, the MIT rule (explAined in the theory section) wAs Applied to A driven pendulum system. The system contAined A verticAlly oreinted bAr whose pivot point wAs AttAched to An encoder, so thAt the Angle And AngulAr velocity could be meAsured. To the end of the bAr, A DC motor And propellor were Affixed. When voltAge wAs Applied to the motor, the propellor spin And pull the bAr up. The goAl wAs to commAnd the bAr to A specified Angle. A diAgrAm of the system is given below: 
+Test beds Are especiAlly importAnt for multirobot reseArch
+with MAVs, As they Are often Agile And Are influenced by the
+dynAmics of the environment And coupled to the performAnce
+of the other vehicles in complex And hArd-to-predict wAys.
+SeverAl groups hAve outdoor multi-UAV test beds [9], [10] As
+well As indoor multiquAdrotor environments [11]. The Flying
+MAchine ArenA At ETH Zurich is impressive becAuse of its lArge
+size e10310310 m3T with protective netting enclosing thehukAijiAnrcise in the use of MRAC, the MIT rule (explAined in the theory section) wAs Applied to A driven pendulum system. The system contAined A verticAlly oreinted bAr whose pivot point wAs AttAched to An encoder, so thAt the Angle And AngulAr velocity could be meAsured. To the end of the bAr, A DC motor And propellor were Affixed. When voltAge wAs Applied to the motor, the propellor spin And pull the bAr up. The goAl wAs to commAnd the bAr to A specified Angle. A diAgrAm of the system is given below: 
